@@ -4,8 +4,6 @@
 
 A dark and light theme for the awesome [Zed editor](https://zed.dev). This is a very early version and a work in progress.
 
----
-
 ## Siri Dark
 
 Siri Dark is basically the default One Dark but with a few tweaks to make it (in my opinion) a little nicer.
