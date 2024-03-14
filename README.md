@@ -18,13 +18,7 @@ Siri Light is a work in progress. The goal is to make a nice light theme that is
 
 ## Installation
 
-This theme isn't published in the Zed extension registry. You can install it manually by cloning this repository into your Zed theme directory.
-
-```
-~/.config/zed/themes/siri.json
-```
-
-Once placed there Siri Dark and Siri Light should be available in the theme picker in Zed.
+**Update**: The theme is now included in the Zed theme registry. You can install it from there.
 
 ## Font
 
