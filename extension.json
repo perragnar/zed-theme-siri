@@ -1,6 +1,6 @@
 {
   "name": "Siri",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "authors": ["Per Ragnar Edin"],
   "description": "A dark theme based on One Dark and a light non white background theme.",
   "repository": "https://github.com/perragnar/zed-theme-siri"
