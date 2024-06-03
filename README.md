@@ -14,11 +14,13 @@ Siri Dark is basically the default One Dark but with a few tweaks to make it (in
 
 Siri Light is a work in progress. The goal is to make a nice light theme that is not too bright. Right now it has a bluish palette but it might change later on.
 
-![Siri Light theme](https://raw.githubusercontent.com/perragnar/zed-theme-siri/main/assets/screenshot-siri-code.png)
+![Siri Light theme](https://raw.githubusercontent.com/perragnar/zed-theme-siri/main/assets/screenshot-siri-light.png)
 
 # Siri Code
 
 This is a theme that is based on Visual Studio Code's dark modern theme. I have made some changes though.
+
+![Siri Light theme](https://raw.githubusercontent.com/perragnar/zed-theme-siri/main/assets/screenshot-siri-code.png)
 
 ## Font
 
