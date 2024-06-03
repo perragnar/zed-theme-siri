@@ -1,7 +1,9 @@
 {
   "name": "Siri",
-  "version": "0.0.3",
-  "authors": ["Per Ragnar Edin"],
-  "description": "A dark theme based on One Dark and a light non white background theme.",
+  "version": "0.0.4",
+  "authors": [
+    "Per Ragnar Edin"
+  ],
+  "description": "A couple of dark themes based on One Dark and Visual Studio Code dark theme. Also a light theme for bright light coding.",
   "repository": "https://github.com/perragnar/zed-theme-siri"
 }
