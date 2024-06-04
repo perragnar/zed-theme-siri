@@ -26,6 +26,19 @@ This is a theme that is based on Visual Studio Code's dark modern theme. I have 
 
 In the screenshot I'm using the font [JetBrains mono](https://www.jetbrains.com/lp/mono).
 
+## Indent guides
+
+If you also like the indent guide to only show up on the active indent you can add this to your settings file:
+
+```json
+"experimental.theme_overrides": {
+  "editor.indent_guide": "#88888800",
+  "editor.indent_guide_active": "#88888844"
+}
+```
+
+It will make all indent guides transparent and the active guide to a semitransparent gray that will work on most dark and light backgrounds. Change the `indent_guide_active` to a different color if you like.
+
 ## Siri?
 
 Siri is my dog, btw.
