@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.0.6 - 2024-08-28
+
+- Changed info.background and deleted.background colors.
+
 ## 0.0.4 - 2024-06-03
 
 - Added a new theme variant. Siri Code. A modified Visual studio code theme with a bit cooler touch.
