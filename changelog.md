@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.0.7 - 2024-09-18
+
+- Tweak `warning` and `error` bakground and border colors.
+
 ## 0.0.6 - 2024-08-28
 
 - Changed info.background and deleted.background colors.

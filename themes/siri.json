@@ -509,8 +509,8 @@
         "unreachable.background": null,
         "unreachable.border": null,
         "warning": "#C99401",
-        "warning.background": "#cdd2de",
-        "warning.border": "#D9CC89",
+        "warning.background": "#f6dc90",
+        "warning.border": "#d1ae49",
         "players": [
           {
             "cursor": "#74ade8ff",
@@ -760,8 +760,8 @@
         "deleted.background": "#622a2e",
         "deleted.border": null,
         "error": null,
-        "error.background": null,
-        "error.border": null,
+        "error.background": "#d85359",
+        "error.border": "#a53137",
         "hidden": "#9d9d9d",
         "hidden.background": null,
         "hidden.border": null,
@@ -790,8 +790,8 @@
         "unreachable.background": null,
         "unreachable.border": null,
         "warning": null,
-        "warning.background": null,
-        "warning.border": null,
+        "warning.background": "#aa7f00",
+        "warning.border": "#5e4600",
         "players": [
           {
             "cursor": "#74ade8ff",
