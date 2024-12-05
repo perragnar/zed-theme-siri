@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.0.9 - 2024-12-05
+
+- Change panel and surface background color on Siri Dark.
+
 ## 0.0.8 - 2024-12-05
 
 - Fixed border color in Siri Dark theme.
