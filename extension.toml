@@ -1,6 +1,6 @@
 id = "siri"
 name = "Siri Theme"
-version = "0.0.7"
+version = "0.0.8"
 schema_version = 1
 authors = ["Per Ragnar Edin <perragnar@gmail.com>"]
 description = "🐶 A couple of dark themes based on One Dark and Visual Studio Code dark theme. Also a light theme for bright light coding."

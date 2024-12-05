@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.0.8 - 2024-12-05
+
+- Fixed border color in Siri Dark theme.
+- Make Siri Code the first theme as it's the primary theme variant.
+
 ## 0.0.7 - 2024-09-18
 
 - Tweak `warning` and `error` bakground and border colors.
