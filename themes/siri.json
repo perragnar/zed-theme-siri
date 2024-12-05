@@ -370,7 +370,7 @@
         "tab.active_background": "#282c33ff",
         "search.match_background": "#74ade866",
         "panel.background": "#1f2227",
-        "surface.background": "#00000000",
+        "surface.background": "#1f2227",
         "panel.focused_border": null,
         "pane.focused_border": null,
         "scrollbar.thumb.background": "#00000055",

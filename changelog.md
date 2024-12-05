@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.0.10 - 2024-12-05
+
+- Fix issue with transparent surface.
+
 ## 0.0.9 - 2024-12-05
 
 - Change panel and surface background color on Siri Dark.
