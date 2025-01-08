@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.0.11 - 2025-01-08
+
+- Set the focus border color for all three themes.
+
 ## 0.0.10 - 2024-12-05
 
 - Fix issue with transparent surface.
