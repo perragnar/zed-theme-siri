@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.0.12 - 2025-11-09
+
+- Update the schema version to 0.2.0.
+
 ## 0.0.11 - 2025-01-08
 
 - Set the focus border color for all three themes.
